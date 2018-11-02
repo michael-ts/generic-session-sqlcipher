@@ -1,0 +1,19 @@
+{
+  "name": "generic-session-sqlcipher",
+  "version": "1.0.0",
+  "description": "Implements a generic session API on top of the SQLCipher based tokens provided by session-promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael-ts/generic-session-sqlcipher.git"
+  },
+  "author": "Michael Schmidt",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/michael-ts/generic-session-sqlcipher/issues"
+  },
+  "homepage": "https://github.com/michael-ts/generic-session-sqlcipher#readme"
+}
